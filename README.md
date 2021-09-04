@@ -28,7 +28,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Sandermoen/instaclone`
+- Clone this repo to your local machine using `https://github.com/MalboroAdvanced/react-instagram-clone.git`
 
 ### Setup
 
@@ -78,7 +78,7 @@ The app should launch automatically, enjoy playing around 😄
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Sandermoen/instaclone`
+- Clone this repo to your local machine using `https://github.com/MalboroAdvanced/react-instagram-clone.git`
 
 ### Setup
 
@@ -123,8 +123,8 @@ Docker will configure the rest for you, the project should be available on port 
 ![Showcase GIF](/screenshots/oTWyTUbFvi.gif)
 ![Showcase GIF](/screenshots/yA6nMe6Xr4.gif)
 
-## Support
+<!-- ## Support
 
 Reach out to me at one of the following places!
 
-- Email at <a href="mailto:smoensander@gmail.com">`smoensander@gmail.com`</a>
+- Email at <a href="mailto:smoensander@gmail.com">`smoensander@gmail.com`</a> -->
